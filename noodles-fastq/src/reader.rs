@@ -1,4 +1,4 @@
-mod records;
+pub mod records;
 
 pub use self::records::Records;
 
